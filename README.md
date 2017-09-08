@@ -29,8 +29,11 @@
               width="203">
               
               <p>
-              birds come in all shapes and sizes,<br> my friend kieran shot one of a roof and it played in a dogs mouth,<br>
-              <br>they are very stupid and fly into windows like James Kinsella,<br> their crow is annoyng, they can fly in the sky<br> 
+             
+              Birds come in all shapes and sizes, my friend kieran shot one of a roof and it played in a dogs mouth,
+              they are very stupid and fly into windows like James Kinsella, their crow is annoyng, they can fly in the sky,
+              Feathers do many jobs for birds. Soft down keeps them warm, wing feathers allow flight and tail feathers are used for
+              steering. The color of the feathers can be used to hide the bird or to help the bird find a boyfriend or a girlfriend! 
                
               </p>
               
