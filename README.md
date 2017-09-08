@@ -22,10 +22,12 @@
         
         <h1>The coolest creature</h1>
         
-        <p>The <em>birds
+        <p>The <em>dogs
             
         </em> are awesome because they are  <strong>colourful</strong>.</p>
         <img src="https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png" alt="birds"
               width="203">
+              
+              
     </body>
 </html>
