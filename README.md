@@ -30,8 +30,8 @@
               
               <p>
               <br>birds come in all shapes and sizes, my friend kieran shot one of a roof and it played in a dogs mouth,
-              they are very stupid and fly into windows like James Kinsella, their crow is annoyng, they can fly in the sky<br> 
-               
+              they are very stupid and fly into windows like James Kinsella, their crow is annoyng, they can fly in the sky 
+              <br> 
               </p>
               
     </body>
