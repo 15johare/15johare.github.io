@@ -43,12 +43,11 @@
               <h1>the best landscape</h1>
               <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" width="340">
               
-             <p>
+             
               <li> this beach is the great island of Hawaii
               <li> you can find birds in Hawaii like the ones up above
               <li> you can also find animals like the ones below
-              </ul>
-              </p>
+              
               
               <h1> <strong>A lizard</strong> <h1>
              <img src="http://dlnr.hawaii.gov/wildlife/files/2013/10/Screen-Shot-2013-10-23-at-3.57.23-PM.png" width="340">
