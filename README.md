@@ -50,7 +50,7 @@
               </ul>
               </p>
               
-              <h1> a lizard <h1>
+              <h1> <strong>A lizard</strong> <h1>
              <img src="http://dlnr.hawaii.gov/wildlife/files/2013/10/Screen-Shot-2013-10-23-at-3.57.23-PM.png" width="340">
               
         
