@@ -47,8 +47,7 @@
               <li> this beach is the great island of Hawaii
               <li> you can find birds in Hawaii like the ones up above
               <li> you can also find animals like the ones below
-              </ul>
-              </p>
+              
         
     </body>
 </html>
