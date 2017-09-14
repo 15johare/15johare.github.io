@@ -26,7 +26,7 @@
             
         </em> are awesome because they are  <strong>colourful</strong>.</p>
         <img src="https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png" alt="birds"
-              width="300">
+              width="340">
               
               <p>
              
@@ -41,7 +41,7 @@
               </p>
               
               <h1>the best landscape</h1>
-              <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" width="300">
+              <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" width="340">
         
     </body>
 </html>
