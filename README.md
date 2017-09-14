@@ -43,11 +43,12 @@
               <h1>the best landscape</h1>
               <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" width="340">
               
-              
+              <p>
               <li> this beach is the great island of Hawaii
               <li> you can find birds in Hawaii like the ones up above
               <li> you can also find animals like the ones below
               </ul>
+              </p>
         
     </body>
 </html>
