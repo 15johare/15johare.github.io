@@ -41,7 +41,7 @@
               </p>
               
               <h1>the best landscape</h1>
-              <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" width="150">
+              <img src="https://www.kasandbox.org/programming-images/landscapes/beach.png" width="240">
         
     </body>
 </html>
