@@ -49,7 +49,7 @@
               <li> you can also find animals like the ones below
               
               
-             <img src="http://dlnr.hawaii.gov/wildlife/files/2013/10/Screen-Shot-2013-10-23-at-3.57.23-PM.png" width="340"
+             <img src="http://dlnr.hawaii.gov/wildlife/files/2013/10/Screen-Shot-2013-10-23-at-3.57.23-PM.png" width="340">
               
         
     </body>
