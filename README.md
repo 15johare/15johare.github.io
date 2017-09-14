@@ -52,6 +52,9 @@
               
               <h1> <strong>A lizard</strong> <h1>
              <img src="http://dlnr.hawaii.gov/wildlife/files/2013/10/Screen-Shot-2013-10-23-at-3.57.23-PM.png" width="340">
+             
+             <h1>
+             <img src="http://i.huffpost.com/gen/1454002/thumbs/o-ASIAN-MONGOOSE-570.jpg?7" width="340">
               
         
     </body>
