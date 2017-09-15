@@ -58,7 +58,7 @@
              <h1>Wallaby<h1>
              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRlrHXcewQgkf8gL-QGbNebgeXbSvBMegPzAPQv6BSXgpWGPs3" width="340">
              
-             <h2>these are just <b>some</b> of the creatures that are living on the island of Hawaii</h2>
+             <h2>these are just some of the creatures that are living on the island of Hawaii</h2>
              
               
         
