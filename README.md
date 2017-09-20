@@ -60,7 +60,17 @@
              
              <h2>these are just some of the creatures that are living on the island of Hawaii</h2>
              
-              
+             <h1>Dangers of Hawaii</h1>
+             
+             <li>flash floods </li>
+             <li>rockfalls </li>
+             <li>waves </li>
+             <li>currents </li>
+             <li>reef cuts</li>
+             <li>territorial surfers</li>
+             <li>box jellyfish</li>
+             <li>Portugease man-o-war jellyfish</li>
+             <li>ocean rock walls and edges</li>
         
     </body>
 </html>
