@@ -62,6 +62,7 @@
              
              <h1>Dangers of Hawaii</h1>
              
+             <p>
              <li>flash floods </li>
              <li>rockfalls </li>
              <li>waves </li>
@@ -71,6 +72,9 @@
              <li>box jellyfish</li>
              <li>Portugease man-o-war jellyfish</li>
              <li>ocean rock walls and edges</li>
-        
+             </ul>
+             </p>
+             
+             
     </body>
 </html>
