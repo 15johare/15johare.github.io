@@ -72,7 +72,7 @@
              <li>box jellyfish</li>
              <li>Portugease man-o-war jellyfish</li>
              <li>ocean rock walls and edges</li>
-             </ul>
+             
              </p>
              
              
