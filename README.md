@@ -16,57 +16,7 @@
         </style>
         
        body {
-       background-image: url("https://cdn.pixabay.com/photo/2015/07/25/19/21/alpaca-860433_960_720.jpg"):
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
+       background-image: url("https://cdn.pixabay.com/photo/2015/07/25/19/21/alpaca-860433_960_720.jpg");
        }
        
     </head>
