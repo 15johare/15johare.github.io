@@ -15,7 +15,8 @@
             color: rgb(48, 9, 240);
         }
         </style>
-        
+        body {
+              background-image: url(http://d1mquhhbkq1b1r.cloudfront.net/2010/06/07/6590_preview.jpg?1286445600)
         
     </head>
     <body>
