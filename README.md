@@ -8,15 +8,15 @@
         p {
             color: rgb(47, 242, 12);
         }
-        body {
-            background-color: rgb(245, 12, 245);
-        }  
+        
+          
         h1 {
             color: rgb(48, 9, 240);
         }
         </style>
+        
         body {
-              background-image: url("http://d1mquhhbkq1b1r.cloudfront.net/2010/06/07/6590_preview.jpg?1286445600");
+              background-image: url("https://cdn.pixabay.com/photo/2015/07/25/19/21/alpaca-860433_960_720.jpg");
                 }
     </head>
     <body>
